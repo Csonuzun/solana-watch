@@ -71,7 +71,7 @@ export default function Header() {
             <a className="">Home</a>
             <a className="">Shop</a>
             <a className="">Community</a>
-            <a href="/whitepaper.pdf" target="_blank" className="">Whitepaper</a>
+            <a href="https://github.com/Csonuzun/solana-watch#introduction" target="_blank" className="">Whitepaper</a>
           </nav>
         </div>
       </motion.header>
