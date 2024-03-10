@@ -54,6 +54,10 @@ The SOW token encapsulates the essence of the Solana Watch ecosystem, serving as
 
 *Detailed Token Distribution:*
 
+![Donut Chart - Presentation (2)](https://github.com/Csonuzun/solana-watch/assets/36796428/89c7e4d4-a88d-4b4e-9c9c-fa5c04309840)
+
+
+
 - *User Rewards (40%):* The largest portion of SOW tokens is earmarked for users who share their personal, environmental, and spatial data, driving the core value proposition of Solana Watch. This allocation incentivizes ongoing participation and ensures a rich data pool.
 - *Development and Operational Costs (20%):* To sustain the technological advancement and smooth operation of the Solana Watch platform, a significant share of tokens is allocated for development, maintenance, and operational expenses.
 - *Marketing and Community Engagement (15%):* To grow the user base and foster a vibrant community, tokens are allocated for marketing initiatives, community events, and engagement programs.
