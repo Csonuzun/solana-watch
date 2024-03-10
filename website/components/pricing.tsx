@@ -7,7 +7,7 @@ export default function Pricing() {
             Pricing
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-500">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical.
+            Switch Plans or Cancel at Anytime
           </p>
         </div>
         <div className="flex flex-wrap -m-4 mx-36">
