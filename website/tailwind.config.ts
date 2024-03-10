@@ -12,6 +12,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+        "solana-watch": "#471747",
+        "solana-watch-accent": "#471747",
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
